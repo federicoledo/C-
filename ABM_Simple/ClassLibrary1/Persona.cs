@@ -84,6 +84,7 @@ namespace Entidades
                 Console.WriteLine("-------------------------------------------------------");
                 xCont++;
             }
+            Console.ReadKey();
             return pp;
         }
     }
