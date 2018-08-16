@@ -1,0 +1,6 @@
+C:\Users\feder\Desktop\Visual Studio\ABM_Simple\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\feder\Desktop\Visual Studio\ABM_Simple\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\feder\Desktop\Visual Studio\ABM_Simple\ClassLibrary1\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\feder\Desktop\Visual Studio\ABM_Simple\ClassLibrary1\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\feder\Desktop\Visual Studio\ABM_Simple\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\feder\Desktop\Visual Studio\ABM_Simple\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

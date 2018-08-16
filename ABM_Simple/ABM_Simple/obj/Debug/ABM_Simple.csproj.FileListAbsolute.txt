@@ -1,0 +1,10 @@
+C:\Users\feder\Desktop\Visual Studio\ABM_Simple\ABM_Simple\bin\Debug\ABM_Simple.exe.config
+C:\Users\feder\Desktop\Visual Studio\ABM_Simple\ABM_Simple\bin\Debug\ABM_Simple.exe
+C:\Users\feder\Desktop\Visual Studio\ABM_Simple\ABM_Simple\bin\Debug\ABM_Simple.pdb
+C:\Users\feder\Desktop\Visual Studio\ABM_Simple\ABM_Simple\bin\Debug\ClassLibrary1.dll
+C:\Users\feder\Desktop\Visual Studio\ABM_Simple\ABM_Simple\bin\Debug\ClassLibrary1.pdb
+C:\Users\feder\Desktop\Visual Studio\ABM_Simple\ABM_Simple\obj\Debug\ABM_Simple.csprojAssemblyReference.cache
+C:\Users\feder\Desktop\Visual Studio\ABM_Simple\ABM_Simple\obj\Debug\ABM_Simple.csproj.CoreCompileInputs.cache
+C:\Users\feder\Desktop\Visual Studio\ABM_Simple\ABM_Simple\obj\Debug\ABM_Simple.csproj.CopyComplete
+C:\Users\feder\Desktop\Visual Studio\ABM_Simple\ABM_Simple\obj\Debug\ABM_Simple.exe
+C:\Users\feder\Desktop\Visual Studio\ABM_Simple\ABM_Simple\obj\Debug\ABM_Simple.pdb
